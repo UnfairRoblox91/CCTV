@@ -1,0 +1,12 @@
+{
+  "images": [
+    "cam1",
+    "cam2",
+    "cam3"
+  ]
+  "room": [
+    "room1",
+    "room2",
+    "room3"
+  ]
+}
